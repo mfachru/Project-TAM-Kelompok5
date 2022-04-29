@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#006867"
+    tools:context=".SewaPerkakasFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="@string/sewa_tukang"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jenis_keahlian"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+        <RelativeLayout
+            android:layout_width="390dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_shape3"
+            android:layout_marginBottom="15dp">
+
+            <Spinner
+                android:id="@+id/input_spinner_type"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:entries="@array/keahlian"
+                android:popupBackground="#009A99"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alamat_tukang"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+        <RelativeLayout
+            android:layout_width="390dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_shape3"
+            android:layout_marginBottom="15dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="@android:color/transparent" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_hp_tukang"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+        <RelativeLayout
+            android:layout_width="390dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_shape3"
+            android:layout_marginBottom="15dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="@android:color/transparent" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/catatan_tukang"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"/>
+
+        <RelativeLayout
+            android:layout_width="390dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_shape3"
+            android:layout_marginBottom="30dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="@android:color/transparent" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/pesantukang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_shape4"
+            android:text="@string/button_tukang"
+            android:textSize="30dp"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>

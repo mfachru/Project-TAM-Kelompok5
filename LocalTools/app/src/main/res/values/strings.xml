@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">LocalTools</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_chat">Chat</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">No. HP</string>
+
+    <string name="pilih_layanan">Pilih Layanan</string>
+    <string name="desc_button_perkakas">Sewa Perkakas</string>
+    <string name="desc_button_tukang">Sewa Tukang</string>
+
+    <string name="sewa_perkakas">Sewa Perkakas</string>
+    <string name="jenis_perkakas">Jenis Perkakas</string>
+    <string name="alamat_perkakas">Alamat</string>
+    <string name="no_hp_perkakas">Nomor HP</string>
+    <string name="catatan_perkakas">Catatan Tambahan</string>
+
+    <string name="sewa_tukang">Sewa Tukang</string>
+    <string name="jenis_keahlian">Jenis Keahlian</string>
+    <string name="alamat_tukang">Alamat</string>
+    <string name="no_hp_tukang">Nomor HP</string>
+    <string name="catatan_tukang">Catatan Tambahan</string>
+
+    <string name="konfirmasi_perkakas">Pesanan sudah terkirim</string>
+    <string name="konfirmasi_tukang">Pesanan sudah terkirim</string>
+
+    <string name="dark_mode">Mode Gelap</string>
+
+    <string-array name="perkakas">
+        <item>Perkakas Ringan</item>
+        <item>Perkakas Berat</item>
+    </string-array>
+
+    <string-array name="keahlian">
+        <item>Tukang Cor</item>
+        <item>Tukang Alumunium</item>
+        <item>Tukang Batu</item>
+    </string-array>
+
+    <string name="button_perkakas">PESAN</string>
+    <string name="button_tukang">PESAN</string>
+    <string name="button_konfirmasi_perkakas">KEMBALI</string>
+    <string name="button_konfirmasi_tukang">KEMBALI</string>
+
+</resources>
