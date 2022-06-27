@@ -20,7 +20,7 @@
 
         <Button
             android:layout_width="372dp"
-            android:layout_height="267dp"
+            android:layout_height="260dp"
             android:background="@drawable/btn_shape2"
             android:clickable="false"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -31,8 +31,6 @@
             app:layout_constraintVertical_bias="0.183" />
 
     </LinearLayout>
-
-
 
     <ImageButton
         android:id="@+id/perkakas"
@@ -114,6 +112,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.022" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

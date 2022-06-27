@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/drawable/btn_shape2.xml" value="0.162" />
-        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/fragment_konfirmasi_tukang.xml" value="0.358695652173913" />
+        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/fragment_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/Tugas Kuliah/SEMESTER 4/Teknologi dan Aplikasi Mobile/Tes aja/Project-TAM-Kelompok5-main/LocalTools/app/src/main/res/layout/fragment_sewa_perkakas.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/LocalTools/app/src/main/res/drawable/btn_shape.xml" value="0.179" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/LocalTools/app/src/main/res/drawable/btn_shape2.xml" value="0.179" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/LocalTools/app/src/main/res/drawable/btn_shape3.xml" value="0.1885" />
